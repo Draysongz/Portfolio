@@ -10,10 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             My name is <span className="purple">Ayomide Gidigbi </span>
             from <span className="purple"> Lagos, Nigeria.</span>
-            <br />I am a developer with a bachelor degree in computer science
+            <br />I am a developer with a bachelor's degree in computer science
             <br />
             <br />
-            Apart from coding, here are my hobbies
+            Apart from coding, My hobbies are
           </p>
           <ul>
             <li className="about-activity">
