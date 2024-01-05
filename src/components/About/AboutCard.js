@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Ayomide Gidigbi </span>
+            My name is <span className="purple">Ayomide Gidigbi </span>
             from <span className="purple"> Lagos, Nigeria.</span>
-            <br />I am currently in my final year of Studying Computer Science
+            <br />I am a developer with a deree in computer science
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, here are my hobbies
           </p>
           <ul>
             <li className="about-activity">
