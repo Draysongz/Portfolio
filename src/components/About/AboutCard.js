@@ -13,18 +13,19 @@ function AboutCard() {
             <br />I am a developer with a bachelor's degree in computer science
             <br />
             <br />
-            Apart from coding, My hobbies are
+            My hobbies are
           </p>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
+              <li> Researching technological advancement</li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
